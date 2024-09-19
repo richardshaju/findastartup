@@ -1,0 +1,55 @@
+.banner {
+  background-image: url(https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/0dd9058c623268e044399d7433371d89041a47b3-3440x1020.jpg);
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 50px;
+  font-weight: 700;
+
+}
+
+.contact-me{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://assets.xboxservices.com/assets/4e/bc/4ebcb533-e184-42f3-833b-9aa47a81f39e.jpg?n=153142244433_Poster-Image-1084_1920x720.jpg);
+    height: 800px;
+    background-size: cover;
+
+}
+
+form{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    width: 600px;
+    height: 400px;
+}
+
+.input-boxes{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+input{
+    height: 50px;
+    padding: 10px;
+}
+textarea{
+    height: 80px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+align-items: center;
+}
